@@ -1,0 +1,7 @@
+id=op5stereo
+name=OnePlus 5 Stereo Speaker Mod
+version=v1
+versionCode=1
+author=acervenky
+description=Earpiece acts as a secondary speaker for stereo effect
+minMagisk=1500
