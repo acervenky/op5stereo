@@ -1,11 +1,8 @@
-# **OnePlus 5 Stereo Mod**
+# OnePlus 5 DualSpeaker Module
+[![Magisk Module](https://raw.githubusercontent.com/acervenky/magiskbadge/master/assets/magiskflat.svg)](https://github.com/topjohnwu/Magisk)
 
-## Description
-
-Stereo Speaker Mod For OnePlus 5/5T
+## Description :
+Allows the earpiece to be used as a secondary speaker to play audio.
 
 ## Changelog
-
-v1
-
-- Based on latest OOS Mixer File
+v1 - Based on latest OOS Mixer File
